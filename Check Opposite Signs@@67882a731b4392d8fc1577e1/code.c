@@ -1,15 +1,6 @@
 #include <stdio.h>
 int main() {
     int a,b;
-    scanf("%d",&a);
-    if(a==0){
-        printf("Zero");
-    }
-    else if(a<0){
-        printf("Negative");
-    }
-    else{
-        printf("Positive");
-    }
-    return 0;
+    scanf("%d %d",&a,&b);
+    ((a<0 && b>0) || (a>0 && b<0))?printf("True"):printf("False");
 }
