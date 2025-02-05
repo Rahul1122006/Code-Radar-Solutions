@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include <stdio.h>
 int main() {
     unsigned int a,count=0;
     scanf("%lu",&a);
