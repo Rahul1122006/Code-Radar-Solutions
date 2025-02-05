@@ -25,4 +25,4 @@ int main() {
         printf("%d",arr[j]);
     }}
     return 0;
-    }
+    
