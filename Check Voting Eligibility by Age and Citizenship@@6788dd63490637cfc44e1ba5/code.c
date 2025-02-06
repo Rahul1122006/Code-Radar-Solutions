@@ -11,5 +11,5 @@ else{
 printf("Eligible");
 }
 return 0;
-    }
+    }}
 
