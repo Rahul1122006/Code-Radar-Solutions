@@ -12,5 +12,5 @@ int main() {
         printf("Scalene");
     }
     return 0;
-    }
+    }}
 
