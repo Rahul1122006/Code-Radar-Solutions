@@ -1,11 +1,15 @@
 #include<stdio.h>
 int main(){
+    int a;
+    scanf("%d",&a);
+    if(!(a>0)){
+        printf("True");
 
- scanf("%d",&arr[i]);
+    }
+    else{
+        printf("False");
     }
 
-    for(int j = 0;j<a;j++){
-    for(int j = 0;j<n;j++){
-        if(arr[j]%2==0){
-            even++;
-        }
+    return 0;
+}
+        
