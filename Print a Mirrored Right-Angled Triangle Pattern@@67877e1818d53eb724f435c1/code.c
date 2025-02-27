@@ -5,11 +5,9 @@ int main(){
     for(i=1;1<=n;1++){
         for(j=1;j<=n-i;j++){
             print(" ");
-    
         }
         for(j=1;j<=i;j++){
             printf("*");
-
         }
         printf("\n");
     }
