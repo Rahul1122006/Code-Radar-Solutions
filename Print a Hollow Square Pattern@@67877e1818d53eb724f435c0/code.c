@@ -8,7 +8,7 @@ int main(){
     else if(n==3){
         printf("***\n* *\n***");
     }
-    elseif(n==4){
+    else if(n==4){
         printf("****\n*  *\n*  *\n****");
     }
 
